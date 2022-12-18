@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Modern for Hacker News",
+    "type": "browser extension",
+    "url": "https://www.modernhn.com/",
+    "tags": ["browser extension"]
+  },
+  {
+    "title": "湾区日报",
+    "type": "website",
+    "url": "https://wanqu.co/",
+    "tags": ["website"]
+  },
+  {
+    "favIconUrl": "https://www.tomscott.com/favicon.ico",
+    "inspiration": "这个小游戏太有意思了，有玩贪吃蛇或俄罗斯方块的那种新松后紧的感觉。",
+    "title": "You Can't Do Simple Maths Under Pressure",
+    "url": "https://www.tomscott.com/usvsth3m/maths/",
+    "tags": ["website", "game"]
+  },
+  {
+    "favIconUrl": "https://ik.imagekit.io/aoi3fgebjgr/wp-content/uploads/2017/09/cropped-thotw-logo-square-1-32x32.jpg",
+    "inspiration": "这种以 timeline 的形式来展示内容的方式可以尝试下。",
+    "title": "The Web's Timeline",
+    "url": "https://thehistoryoftheweb.com/timeline/",
+    "tags": ["website"]
+  },
+  {
+    "api": "TMDB",
+    "favIconUrl": "https://flickfocus.com/assets/images/favicon.png",
+    "inspiration": "感觉做的挺不错的，我之前想做的 fake-douban 可以参考下这个",
+    "title": "FlickFocus",
+    "description": "Discover Movies | TV Shows | What to watch next",
+    "url": "https://flickfocus.com/",
+    "type": "website",
+    "tags": ["website", "TMDB"]
+  },
+  {
+    "favIconUrl": "https://relingo.net/assets/images/favicon.ico",
+    "inspiration": "vocapture",
+    "title": "Relingo",
+    "description": "无压力不打扰学习英语单词，打开浏览器在任何页面添加生词",
+    "url": "https://relingo.net/zh/index",
+    "tags": ["browser extension", "vocabulary"]
+  },
+  {
+    "favIconUrl": "https://marqly.com/wp-content/uploads/2022/03/favicon_marqly-1-150x150.png",
+    "inspiration": "书签管理",
+    "title": "Marqly",
+    "description": "Chrome & Edge Bookmark & Link Manager",
+    "url": "https://marqly.com/",
+    "tags": ["browser extension", "bookmark"]
+  },
+  {
+    "favIconUrl": "https://protiumx.dev/favicon.ico",
+    "inspiration": "把个人网站做成了一个 terminal，有点意思。",
+    "title": "protiumx",
+    "url": "https://protiumx.dev/",
+    "tags": ["website", "personal", "creative"]
+  },
+  {
+    "favIconUrl": "https://fav.farm/%E2%9C%8D%EF%B8%8F",
+    "title": "Copy Book",
+    "description": "Collection of texts that are commonly used around the web.",
+    "url": "https://copybook.me/",
+    "tags": ["website", "collection"]
+  },
+  {
+    "favIconUrl": "https://musicforprogramming.net/favicon.png",
+    "inspiration": "有点意思",
+    "title": "musicForProgramming();",
+    "url": "https://musicforprogramming.net/latest/",
+    "tags": ["website", "creative"]
+  }
+]
